@@ -89,3 +89,8 @@ h1 {
 #baby-web-developer {
     border-left: 6px solid blue;
 }
+
+footer p {
+
+    text-align: center;
+}
